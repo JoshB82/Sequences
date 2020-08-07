@@ -1,0 +1,15 @@
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.exe
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.deps.json
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.runtimeconfig.json
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.runtimeconfig.dev.json
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.dll
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\bin\Debug\netcoreapp3.1\Sequences.pdb
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.csprojAssemblyReference.cache
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.Main.resources
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.csproj.GenerateResource.cache
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.AssemblyInfoInputs.cache
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.AssemblyInfo.cs
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.csproj.CoreCompileInputs.cache
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.dll
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.pdb
+C:\Users\jbrya\source\repos\JoshB82\Sequences\Sequences\Sequences\obj\Debug\netcoreapp3.1\Sequences.genruntimeconfig.cache
